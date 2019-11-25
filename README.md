@@ -1,6 +1,6 @@
-School - Modelleren automation
+:package:School - Modelleren automation
 
-Summary:
+:pencil:Summary:
 One of the parts of this class is comparing things to eachother.
 an example would be 1 needs to be compared to 2, 3, 4, 5 so this
 means 2 needs to be compared to 3, 4, 5. 
@@ -9,7 +9,7 @@ but if you'd need to compare 30 different things that would take a lot of time
 to write down.
 So I made the project to save time.:checkered_flag:
 
-Use: 
+:children_crossing:Use: 
 1. Open excel.
 2. Open modelleren.exe.
 3. Set your excel up so that you have the starting cell selected
