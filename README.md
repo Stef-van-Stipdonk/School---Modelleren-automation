@@ -1,4 +1,4 @@
-:package:**##School - Modelleren automation**
+:package:**## h2 School - Modelleren automation**
 
 :pencil:**##Summary:**  
 One of the parts of this class is comparing things to eachother.
