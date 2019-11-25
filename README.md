@@ -7,7 +7,8 @@ means 2 needs to be compared to 3, 4, 5.
 When using small numbers like this you could do this easily by hand,
 but if you'd need to compare 30 different things that would take a lot of time
 to write down.
-So I made the project to save time.:checkered_flag:
+So I made the project to save time.
+
 
 :children_crossing:Use: 
 1. Open excel.
