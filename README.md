@@ -16,5 +16,5 @@ Use:
 4. When you've opened modelleren.exe you'll get asked how many camparisons you need to make, enter the amount
 5. After you've entered you've got 2s to ALT+Tab back into excel, after which the program will take care of the rest
 
-WARNING  
+:rotating_light:WARNING:rotating_light:
 Do not alt tab anywhere untill the program is done.
