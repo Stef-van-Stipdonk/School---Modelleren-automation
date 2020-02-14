@@ -1,4 +1,4 @@
-Currently developing a V2 of this project.  
+**Currently developing a V2 of this project.**
 
 :package:**School - Modelleren automation**
 
