@@ -1,3 +1,5 @@
+Currently developing a V2 of this project.  
+
 :package:**School - Modelleren automation**
 
 :pencil:**Summary:**  
