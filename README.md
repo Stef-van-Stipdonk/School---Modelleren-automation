@@ -1,4 +1,5 @@
-**Currently developing a V2 of this project.**
+**Currently developing a V2 of this project.**  
+https://github.com/Stef-van-Stipdonk/Modelleren-Automation-V2
 
 :package:**School - Modelleren automation**
 
